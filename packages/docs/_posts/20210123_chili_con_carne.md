@@ -3,6 +3,8 @@ title: Chili con Carne
 date: 2021-01-23
 author: Janet
 location: Baden-Baden, Germany
+categories:
+  - main
 tags:
   - halal
 summary: ...

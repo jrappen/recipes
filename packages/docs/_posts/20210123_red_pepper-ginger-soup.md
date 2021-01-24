@@ -3,6 +3,9 @@ title: Red Pepper - Ginger - Soup
 date: 2021-01-23
 author: Hubert
 location: Baden-Baden, Germany
+categories:
+  - side
+  - soup
 tags:
   - halal
   - vegan
