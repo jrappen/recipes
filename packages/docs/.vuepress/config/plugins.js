@@ -39,7 +39,7 @@ module.exports = [
         footer: {
             contact: [
                 {
-                    type: 'github':
+                    type: 'github',
                     link: 'https://github.com/jrappen/recipes'
                 }
             ],
