@@ -2,7 +2,7 @@
     "name": "recipes",
     "version": "0.20210124.0",
     "private": true,
-    "description": "Random collection of recipes",
+    "description": "Personal collection of recipes",
     "keywords": [
         "recipes",
         "vuepress-site"

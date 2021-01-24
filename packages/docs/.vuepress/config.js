@@ -4,8 +4,8 @@ module.exports = context => ({
   locales: {
     '/': {
       lang: 'en',
-      title: 'Random collection of recipes',
-      description: 'Random collection of recipes'
+      title: 'Recipes',
+      description: 'Personal collection of recipes'
     }
   },
   head: [

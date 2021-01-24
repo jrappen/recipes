@@ -15,6 +15,12 @@ module.exports = [
         ],
         frontmatters: [
             {
+                id: 'category',
+                keys: ['category', 'categories'],
+                path: '/category/',
+                frontmatter: { title: 'Category' }
+            },
+            {
                 id: 'tag',
                 keys: ['tag', 'tags'],
                 path: '/tag/',
@@ -23,7 +29,8 @@ module.exports = [
             {
                 id: 'location',
                 keys: ['location'],
-                path: '/location/'
+                path: '/location/',
+                frontmatter: { title: 'Location' }
             }
         ],
         globalPagination: {

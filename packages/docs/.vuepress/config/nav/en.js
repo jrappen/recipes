@@ -1,7 +1,11 @@
 module.exports = [
   {
-    text: 'Blog',
+    text: 'Recipes',
     link: '/'
+  },
+  {
+    text: 'Categories',
+    link: '/category/'
   },
   {
     text: 'Tags',
