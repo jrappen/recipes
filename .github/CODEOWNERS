@@ -1,0 +1,6 @@
+# default owners
+*                                       jrappen
+
+# technical quality control
+/.github/workflows/                     @jrappen
+/packages/docs/.vuepress/               @jrappen

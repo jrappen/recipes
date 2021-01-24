@@ -1,0 +1,39 @@
+{
+    "name": "recipes",
+    "version": "0.20210124.0",
+    "private": true,
+    "description": "Random collection of recipes",
+    "keywords": [
+        "recipes",
+        "vuepress-site"
+    ],
+    "homepage": "https://github.com/jrappen/recipes#readme",
+    "bugs": {
+        "url": "https://github.com/jrappen/recipes/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jrappen/recipes.git"
+    },
+    "license": "ISC",
+    "author": "Johannes Rappen <jrappen@outlook.com>",
+    "engines": {
+        "yarn": ">=1.22.4"
+    },
+    "scripts": {
+        "build": "yarn install && vuepress build . --no-cache",
+        "check-md": "yarn install && vuepress check-md .",
+        "dev": "yarn install && vuepress dev . --no-cache"
+    },
+    "devDependencies": {
+        "@vuepress/plugin-active-header-links": "^1.8.0",
+        "@vuepress/plugin-back-to-top": "^1.8.0",
+        "@vuepress/plugin-blog": "^1.9.4",
+        "@vuepress/plugin-pwa": "^1.8.0",
+        "@vuepress/plugin-search": "^1.8.0",
+        "vuepress": "^1.8.0",
+        "vuepress-plugin-check-md": "^0.0.2",
+        "vuepress-plugin-container": "^2.1.5",
+        "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
+    }
+}

@@ -1,0 +1,12 @@
+*                   text        eol=lf
+
+.github/                        export-ignore
+
+.gitattributes                  export-ignore
+.gitignore                      export-ignore
+
+*.gif               binary
+*.jpeg              binary
+*.jpg               binary
+*.png               binary
+*.svg               text
