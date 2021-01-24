@@ -1,5 +1,5 @@
 module.exports = context => ({
-  base: '/',
+  base: '/recipes/',
   dest: '../../docs',
   locales: {
     '/': {
