@@ -3,7 +3,7 @@ name: continuous-deployment
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'packages/docs/**'
   workflow_dispatch:
