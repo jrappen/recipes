@@ -7,7 +7,7 @@ categories:
   - main
 tags:
   - halal
-summary: ...
+summary: The original nanny recipe.
 ---
 
 # Chili con carne

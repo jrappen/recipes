@@ -10,7 +10,7 @@ tags:
   - halal
   - vegan
   - vegetarian
-summary: ...
+summary: A spicy soup for cold winter nights.
 ---
 
 # Red Pepper - Ginger - Soup
