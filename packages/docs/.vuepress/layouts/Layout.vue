@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="main">
+    <Content/>
     <ul id="default-layout">
       <li v-for="page in $pagination.pages">
         <router-link class="page-link" :to="page.path">{{ page.title }}</router-link>
