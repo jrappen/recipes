@@ -27,19 +27,19 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "2021/01/23/chili-con-carne/index.html",
-    "revision": "30b33db7d707f200c91c9d32f9b9f502"
+    "revision": "0f5a40c006f259e34c815a43d27e74df"
   },
   {
     "url": "2021/01/23/cookies/index.html",
-    "revision": "402ec828ccef53b077c990972a42ecdc"
+    "revision": "1644376f01eff07911dcbd5bda6db34e"
   },
   {
     "url": "2021/01/23/red-pepper-ginger-soup/index.html",
-    "revision": "2b0ab66df5a60d866bea6be157800cfb"
+    "revision": "6d45cedd6bb0ddd7ca739615c5dc77a7"
   },
   {
     "url": "404.html",
-    "revision": "7248b3ee474861678ad2248c5e4f87ae"
+    "revision": "e2f503a61b220fcbc96ffa1c1926ef79"
   },
   {
     "url": "assets/css/0.styles.aa3cbaef.css",
@@ -90,28 +90,28 @@ self.__precacheManifest = [
     "revision": "bf016014f5d65478356919d3fb37aea6"
   },
   {
-    "url": "assets/js/app.f88675ca.js",
-    "revision": "796f54a00e0c7863aa3f96179b7df610"
+    "url": "assets/js/app.b0c7796f.js",
+    "revision": "2150c4d5cff274608acee567ea6a862a"
   },
   {
     "url": "category/dessert/index.html",
-    "revision": "44f94a3ac7680a711e94073c490f59dc"
+    "revision": "54d0ae23dd9bebb468845eeb71cd5289"
   },
   {
     "url": "category/index.html",
-    "revision": "478514350e1c18d364d33b3c4d0b6413"
+    "revision": "146bcce11295f3ff5d354b5cf5bb8d13"
   },
   {
     "url": "category/main/index.html",
-    "revision": "62b91040328c738d4cdea47a65877878"
+    "revision": "c3e05a41bc1dcbb8d5e2b02b1994b432"
   },
   {
     "url": "category/side/index.html",
-    "revision": "2d7dd1582291d375616ba38ae4dd40b3"
+    "revision": "dc24b2293d4e91af0550ffdcf6743b1f"
   },
   {
     "url": "category/soup/index.html",
-    "revision": "a4179b33554ed6b1f594dd11a4bf7687"
+    "revision": "34072287d48de19e6ceb7ae24ba8e6e4"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -167,19 +167,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b682cda5d4014197c5a19df012d9f777"
+    "revision": "e6e6b3db2e625fad5f90f61361abb6aa"
   },
   {
     "url": "location/Baden-Baden, Germany/index.html",
-    "revision": "76afa21fce6ba65441370f0531d3338b"
+    "revision": "a5cf4dd08ddce510e96c24c46f478f36"
   },
   {
     "url": "location/Düsseldorf, Germany/index.html",
-    "revision": "29c427620b5200f03b5e5db6e3b5a854"
+    "revision": "c2d4a68b343415adfacd7f32bfec29f0"
   },
   {
     "url": "location/index.html",
-    "revision": "0ca0f45204a1e1436b4c8191173c9272"
+    "revision": "a5189817f5f55d5d566efcdbd2260f5d"
   },
   {
     "url": "logo.png",
@@ -187,27 +187,27 @@ self.__precacheManifest = [
   },
   {
     "url": "page/2/index.html",
-    "revision": "a1f2a03abbd2a205f4cd9848b96ca9bb"
+    "revision": "b655f198af152e010b616e34c08538aa"
   },
   {
     "url": "tag/cookies/index.html",
-    "revision": "f8a2258fbc7b94ed5d1ec95e6b0c1479"
+    "revision": "5da5fbc49425440e0f64b17b1ea3d8c9"
   },
   {
     "url": "tag/halal/index.html",
-    "revision": "85bc00d97aac5a0333fe07e2d45a732c"
+    "revision": "d5f6c4271c4b59a0ee90e096e36f6dee"
   },
   {
     "url": "tag/index.html",
-    "revision": "7fec55a2dcf69565f21a5c391455f5c1"
+    "revision": "fb442bfb83c3a6848e9cc938ffe9721c"
   },
   {
     "url": "tag/vegan/index.html",
-    "revision": "2fe933ed79c6438e3fdf9263c1dccd13"
+    "revision": "0b43d00f24d5489198d65a116014832d"
   },
   {
     "url": "tag/vegetarian/index.html",
-    "revision": "ff82ec211f39b44c81eb4bf3d9348274"
+    "revision": "3450dd19a7eeda8e10ed90751d88791f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
