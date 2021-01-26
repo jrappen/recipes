@@ -1,6 +1,5 @@
 <template>
-  <div class="main">
-    <Content/>
+  <div>
     <ul id="default-layout">
       <li v-for="page in $pagination.pages">
         <router-link class="page-link" :to="page.path">{{ page.title }}</router-link>
@@ -10,5 +9,15 @@
       <router-link v-if="$pagination.hasPrev" :to="$pagination.prevLink">Prev</router-link>
       <router-link v-if="$pagination.hasNext" :to="$pagination.nextLink">Next</router-link>
     </div>
+
+    <Pagination v-if="$pagination.length > 1"/>
   </div>
 </template>
+
+<script>
+  import { Pagination } from '@app/components/Pagination.vue'
+
+  export default {
+    components: { Pagination }
+  }
+</script>

@@ -18,12 +18,14 @@ module.exports = [
                 id: 'category',
                 keys: ['category', 'categories'],
                 path: '/category/',
+                scopeLayout: 'Category',
                 frontmatter: { title: 'Category' }
             },
             {
                 id: 'tag',
                 keys: ['tag', 'tags'],
                 path: '/tag/',
+                scopeLayout: 'Tag',
                 frontmatter: { title: 'Tag' }
             },
             {
