@@ -1,6 +1,6 @@
 module.exports = [
   {
-    text: 'Recipes',
+    text: 'Home',
     link: '/'
   },
   {
