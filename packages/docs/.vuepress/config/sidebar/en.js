@@ -1,8 +1,6 @@
 module.exports = {
     '/': [
-        ['', 'Home'],
-        ['/category/', 'Categories'],
-        ['/tag/', 'Tags']
+        ['', 'Home']
     ],
     '/category/': [
         ['/category/', 'Categories']
