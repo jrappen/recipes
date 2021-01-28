@@ -7,7 +7,7 @@ module.exports = [
                 id: 'post',
                 dirname: '_posts',
                 path: '/',
-                itemPermalink: '/:year/:month/:day/:slug',
+                itemPermalink: '/:slug',
                 pagination: {
                     lengthPerPage: 2
                 }
@@ -18,14 +18,16 @@ module.exports = [
                 id: 'category',
                 keys: ['category', 'categories'],
                 path: '/category/',
-                scopeLayout: 'Category',
+                layout: 'Category',
+                itemLayout: 'Category',
                 frontmatter: { title: 'Category' }
             },
             {
                 id: 'tag',
                 keys: ['tag', 'tags'],
                 path: '/tag/',
-                scopeLayout: 'Tag',
+                layout: 'Tag',
+                itemLayout: 'Tag',
                 frontmatter: { title: 'Tag' }
             },
             {
