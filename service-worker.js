@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5906047c91b5b86eb36c9d651da8cfb6"
+    "revision": "a134968c264e5c140e26432121746382"
   },
   {
     "url": "assets/css/0.styles.aa3cbaef.css",
@@ -42,8 +42,12 @@ self.__precacheManifest = [
     "revision": "f44f0571cff4b397bfb8c1917950ac3d"
   },
   {
-    "url": "assets/js/11.80377e35.js",
-    "revision": "f30d4ccd8434e72527c74679a53d1690"
+    "url": "assets/js/11.cd2db634.js",
+    "revision": "7aa70ed65abf31aee14d138499d99468"
+  },
+  {
+    "url": "assets/js/12.097da429.js",
+    "revision": "c6a75617a30fd05cd06bb31801a3c390"
   },
   {
     "url": "assets/js/2.7383e662.js",
@@ -54,8 +58,8 @@ self.__precacheManifest = [
     "revision": "d5747f5adf507b34280d42d4cf817ef2"
   },
   {
-    "url": "assets/js/4.2e062dc8.js",
-    "revision": "8f6427e56561fad9f14946783aa83cce"
+    "url": "assets/js/4.03d33699.js",
+    "revision": "477eac977f5e15b0e562fe98d7302cd6"
   },
   {
     "url": "assets/js/5.23ea72f1.js",
@@ -78,36 +82,36 @@ self.__precacheManifest = [
     "revision": "bf016014f5d65478356919d3fb37aea6"
   },
   {
-    "url": "assets/js/app.9ba5cc18.js",
-    "revision": "789ec16d6a01444e4188de57d7815ed7"
+    "url": "assets/js/app.e0c8dafe.js",
+    "revision": "49be4100a006dcf2f3a2de9350c026a5"
   },
   {
     "url": "category/dessert/index.html",
-    "revision": "ef1326ca1a23fb7d05a525c8c6b83e8b"
+    "revision": "74b1144067c49c45d8257d15e8ebc5db"
   },
   {
     "url": "category/index.html",
-    "revision": "d1131866ddb48f09dca4ebc4ed32cb49"
+    "revision": "e177a4137f0090f07135b1dfd61a3e41"
   },
   {
     "url": "category/main/index.html",
-    "revision": "cb85de06220be8ce640a8e86289222ff"
-  },
-  {
-    "url": "category/side/index.html",
-    "revision": "03ad44fab326cfb9e4b4101765f2a83c"
+    "revision": "5494e5c5003b598db8439643d014eff8"
   },
   {
     "url": "category/soup/index.html",
-    "revision": "a750395d53a529d1e67a3b1bf025dc2c"
+    "revision": "f36a5760409d3cbbf39f80ad64a488ef"
   },
   {
     "url": "chili-con-carne/index.html",
-    "revision": "cd0de088bd7603ab83990d5a499edc3b"
+    "revision": "1e54b1f3f2424b9d18e66526b8d6b251"
   },
   {
     "url": "cookies/index.html",
-    "revision": "ef8261f09ea4eceb8ff99a850f06b471"
+    "revision": "147b12d1bf164bed39b5873ab076c75e"
+  },
+  {
+    "url": "elisenlebkuchen/index.html",
+    "revision": "941280885367a0fa2cf2372f74ab25b5"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -163,19 +167,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "35acfdb373f4be36d5ffd09a3cbd6c22"
+    "revision": "a4626db3ca6fbe56112b760d9bf33bcf"
   },
   {
     "url": "location/Baden-Baden, Germany/index.html",
-    "revision": "c8300750dbb7964e85210c63f582d603"
+    "revision": "5a92ca446327f65e9f0d1aff3e2fa5cb"
   },
   {
     "url": "location/Düsseldorf, Germany/index.html",
-    "revision": "c746a81f6a3562eb13c4e3fce26f140f"
+    "revision": "65b160b863ca989ca1574879b8f04af8"
   },
   {
     "url": "location/index.html",
-    "revision": "15faea34c4a764636838a90dac4e1f68"
+    "revision": "d72822c3eee7027a17f3cbb3dce1dac0"
   },
   {
     "url": "logo.png",
@@ -183,31 +187,31 @@ self.__precacheManifest = [
   },
   {
     "url": "page/2/index.html",
-    "revision": "4cf26b9d013debebaadb0c6c9a494a0c"
+    "revision": "b79f79ba2ab8387518d0d44299ac27fa"
   },
   {
     "url": "red-pepper-ginger-soup/index.html",
-    "revision": "d5fe365f9c09e5cedea1e0ae1f56abea"
+    "revision": "2348cbd4952c7e61567fea53e57c1a91"
   },
   {
     "url": "tag/cookies/index.html",
-    "revision": "151c25fb9f6bee3f3f93d41cf7334cca"
+    "revision": "7f811414c3288233b47d8936227bb5c3"
   },
   {
     "url": "tag/halal/index.html",
-    "revision": "9f52875f248d0da965c67be5f27d609d"
+    "revision": "c0d7ef4e97fecc6110f9651680e7586a"
   },
   {
     "url": "tag/index.html",
-    "revision": "8ae7d458e8fb832b350f424b4e29f087"
+    "revision": "cde454d10cf7f55c59877658a752a47e"
   },
   {
     "url": "tag/vegan/index.html",
-    "revision": "a50cf5ce666f71c6f32354552a514926"
+    "revision": "e947cac444efbc5551ff98733c052bb6"
   },
   {
     "url": "tag/vegetarian/index.html",
-    "revision": "f8d330ab50912f733b7b0821dbdf7e73"
+    "revision": "69f856efed470ed64acbc376fb372aa6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
