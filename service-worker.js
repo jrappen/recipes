@@ -26,20 +26,8 @@ self.addEventListener('message', (event) => {
  */
 self.__precacheManifest = [
   {
-    "url": "2021/01/23/chili-con-carne/index.html",
-    "revision": "44fc03277116ce6be9de6396f48b0790"
-  },
-  {
-    "url": "2021/01/23/cookies/index.html",
-    "revision": "33890cdf8e0630083d39d41658b7eca5"
-  },
-  {
-    "url": "2021/01/23/red-pepper-ginger-soup/index.html",
-    "revision": "baa843fda42186a493bc73063ae2c2c1"
-  },
-  {
     "url": "404.html",
-    "revision": "8cc5a5857bac347eb803ba59626cb2cd"
+    "revision": "5906047c91b5b86eb36c9d651da8cfb6"
   },
   {
     "url": "assets/css/0.styles.aa3cbaef.css",
@@ -90,28 +78,36 @@ self.__precacheManifest = [
     "revision": "bf016014f5d65478356919d3fb37aea6"
   },
   {
-    "url": "assets/js/app.86b11e13.js",
-    "revision": "af5fb1257dff5d0ca7391fe3d329512f"
+    "url": "assets/js/app.9ba5cc18.js",
+    "revision": "789ec16d6a01444e4188de57d7815ed7"
   },
   {
     "url": "category/dessert/index.html",
-    "revision": "109e12d4621ffeca3be1f35502e4a342"
+    "revision": "ef1326ca1a23fb7d05a525c8c6b83e8b"
   },
   {
     "url": "category/index.html",
-    "revision": "ba931dc50af0bddaa32020ceed1c1d28"
+    "revision": "d1131866ddb48f09dca4ebc4ed32cb49"
   },
   {
     "url": "category/main/index.html",
-    "revision": "411ae95017a84cbd242bccfc1b7695af"
+    "revision": "cb85de06220be8ce640a8e86289222ff"
   },
   {
     "url": "category/side/index.html",
-    "revision": "15cd478e0607bb0ba64c62dacbbe30bd"
+    "revision": "03ad44fab326cfb9e4b4101765f2a83c"
   },
   {
     "url": "category/soup/index.html",
-    "revision": "5b0b4a2a2a0e928cdecfb62ad5ed2efc"
+    "revision": "a750395d53a529d1e67a3b1bf025dc2c"
+  },
+  {
+    "url": "chili-con-carne/index.html",
+    "revision": "cd0de088bd7603ab83990d5a499edc3b"
+  },
+  {
+    "url": "cookies/index.html",
+    "revision": "ef8261f09ea4eceb8ff99a850f06b471"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -167,19 +163,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "19e4209289db2ce46bec73e28ff3e3d4"
+    "revision": "35acfdb373f4be36d5ffd09a3cbd6c22"
   },
   {
     "url": "location/Baden-Baden, Germany/index.html",
-    "revision": "836643511665fb410c6a075bab25e12b"
+    "revision": "c8300750dbb7964e85210c63f582d603"
   },
   {
     "url": "location/Düsseldorf, Germany/index.html",
-    "revision": "b0cba46e0e1ac0c55ab795b1035db767"
+    "revision": "c746a81f6a3562eb13c4e3fce26f140f"
   },
   {
     "url": "location/index.html",
-    "revision": "e95707886174f71b4a07b5b740e7328e"
+    "revision": "15faea34c4a764636838a90dac4e1f68"
   },
   {
     "url": "logo.png",
@@ -187,27 +183,31 @@ self.__precacheManifest = [
   },
   {
     "url": "page/2/index.html",
-    "revision": "ec1abf2d3992d10e40ef9eaefb07e087"
+    "revision": "4cf26b9d013debebaadb0c6c9a494a0c"
+  },
+  {
+    "url": "red-pepper-ginger-soup/index.html",
+    "revision": "d5fe365f9c09e5cedea1e0ae1f56abea"
   },
   {
     "url": "tag/cookies/index.html",
-    "revision": "be489ba9e5edb609654bb282c4215068"
+    "revision": "151c25fb9f6bee3f3f93d41cf7334cca"
   },
   {
     "url": "tag/halal/index.html",
-    "revision": "c0e336ca9f7edfab01aa28c2537c28bf"
+    "revision": "9f52875f248d0da965c67be5f27d609d"
   },
   {
     "url": "tag/index.html",
-    "revision": "8ee72a8d21e5ed043975a9d156d65cee"
+    "revision": "8ae7d458e8fb832b350f424b4e29f087"
   },
   {
     "url": "tag/vegan/index.html",
-    "revision": "7c01f6969b4718fc9e9eb46a6531dd9b"
+    "revision": "a50cf5ce666f71c6f32354552a514926"
   },
   {
     "url": "tag/vegetarian/index.html",
-    "revision": "063c83ed735263d5a067323592d35c09"
+    "revision": "f8d330ab50912f733b7b0821dbdf7e73"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
