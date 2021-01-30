@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "bb09363867b6b6dd738172ec32da02f1"
+    "revision": "215a5dac4d3c5dc3a10642b92b25e165"
   },
   {
     "url": "assets/css/0.styles.aa3cbaef.css",
@@ -78,32 +78,32 @@ self.__precacheManifest = [
     "revision": "495828c939ee14356c755be032fffb5c"
   },
   {
-    "url": "assets/js/8.6713ebf7.js",
-    "revision": "7421a71c596ba784236c062d2973dc3b"
+    "url": "assets/js/8.4973ee69.js",
+    "revision": "2d99e5ec8022653f725294ab5ccfa42c"
   },
   {
     "url": "assets/js/9.ee62f906.js",
     "revision": "47f16e9517cbce477d3695234d027021"
   },
   {
-    "url": "assets/js/app.ab495208.js",
-    "revision": "0bd06f2d20fb4673b817ac723cfb3964"
+    "url": "assets/js/app.e743b297.js",
+    "revision": "c2d0c0cd98b354a8a7baaaed505af66a"
   },
   {
     "url": "category/dessert/index.html",
-    "revision": "5fd2aab2b2cfdfcfc2dabc85696fa34f"
+    "revision": "caa74cb0be3eac1efbef7a963eabdacb"
   },
   {
     "url": "category/index.html",
-    "revision": "ecd9a35d18786d28655f01699d59374a"
+    "revision": "ea5243bef58d2ac6e826677527cad296"
   },
   {
     "url": "category/main/index.html",
-    "revision": "f9c878dcea0067c6bbaf9d93b4a3d2e2"
+    "revision": "03c807e3d9eb5286c95b4f6d21683bb0"
   },
   {
     "url": "category/soup/index.html",
-    "revision": "fe3e1a39238db4c0b673e2b0c504655c"
+    "revision": "d24a2d3325b256218e9db7b76decb1cc"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -159,19 +159,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3e7a807a87d3a5bd3a63b46033206400"
+    "revision": "6c9d4d79fe81e23689c0764455a88952"
   },
   {
     "url": "location/Baden-Baden, Germany/index.html",
-    "revision": "6e1d0cdcd80282a4e77d2d5c9381e338"
+    "revision": "f7fc665632b4be7451d9033d58277fea"
   },
   {
     "url": "location/Düsseldorf, Germany/index.html",
-    "revision": "3635d4b78c4bd47e39e722f25dfd769f"
+    "revision": "09a0aefd40c213b447872a9961b146be"
   },
   {
     "url": "location/index.html",
-    "revision": "65cc0693c60ee04ee7f891e375490630"
+    "revision": "89cd73ef5f7fb2ff1f2cfd967686824e"
   },
   {
     "url": "logo.png",
@@ -179,47 +179,47 @@ self.__precacheManifest = [
   },
   {
     "url": "post/2021/01/23/chili-con-carne/index.html",
-    "revision": "61c86ddffdf56495aca37cfe9f0d147e"
+    "revision": "01e089a2ca6b2fff7e9d0282019a9390"
   },
   {
     "url": "post/2021/01/23/cookies/index.html",
-    "revision": "e4403a9617d143399935a5a799ac526f"
+    "revision": "68f069187a0a73710f6c598811775dd5"
   },
   {
     "url": "post/2021/01/23/red-pepper-ginger-soup/index.html",
-    "revision": "e558d992af9527979a2da452e45b1708"
+    "revision": "ab15adbbb4149622c7597249bf79d421"
   },
   {
     "url": "post/2021/01/26/elisenlebkuchen/index.html",
-    "revision": "41f69f1186c45d34fb027d1200ceb35a"
+    "revision": "6b851e3fb54d002eaa668d7f26fcbab6"
   },
   {
     "url": "post/index.html",
-    "revision": "4eca4d2fae099d43cde73e43e231d0ab"
+    "revision": "17848f51df6bfe62f3a42cb88910166a"
   },
   {
     "url": "post/page/2/index.html",
-    "revision": "bb0387b7cadaaa833d3484498a8f42b3"
+    "revision": "fb109d5a0917572ccbb7f62b66d3bf0c"
   },
   {
     "url": "tag/cookies/index.html",
-    "revision": "c3065fce0884eb4749ead5ddeca4041d"
+    "revision": "29db099b9ebd99f6ffb41acc18e5d18e"
   },
   {
     "url": "tag/halal/index.html",
-    "revision": "1f60b5602b70e553f52d9771c575eb6b"
+    "revision": "58498043142b6c0cc2f24c456ba676c1"
   },
   {
     "url": "tag/index.html",
-    "revision": "ce24373cae315b3db5ab396f6ed3917e"
+    "revision": "79575bb54760193903b3080d87988834"
   },
   {
     "url": "tag/vegan/index.html",
-    "revision": "34bbec93e1664072a6f843c6b1d4b83e"
+    "revision": "ee8ff56460f43a15f5c5286d9fb3a1e0"
   },
   {
     "url": "tag/vegetarian/index.html",
-    "revision": "a3aa77fbbdb5b15e7042aec7f3b83ae6"
+    "revision": "25336a662083280364536170f21b7c06"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
