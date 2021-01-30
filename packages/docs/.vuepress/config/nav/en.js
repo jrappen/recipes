@@ -10,5 +10,9 @@ module.exports = [
   {
     text: 'Tags',
     link: '/tag/'
+  },
+  {
+    text: 'Locations',
+    link: '/location/'
   }
 ]
