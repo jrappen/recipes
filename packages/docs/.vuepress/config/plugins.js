@@ -6,8 +6,8 @@ module.exports = [
             {
                 id: 'post',
                 dirname: '_posts',
-                path: '/',
-                itemPermalink: '/:slug',
+                path: '/post/',
+                itemPermalink: '/post/:year/:month/:day/:slug',
                 pagination: {
                     lengthPerPage: 2
                 }
