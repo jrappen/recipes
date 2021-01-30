@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Recipes
 
-Please use the **search** to find a recipe, or use the **categories** or **tags** links in the navigation bar.
+Please use the **search field** to find a recipe, or visit [categories](./category/), [tags](./tag/) or [locations](./location/).
