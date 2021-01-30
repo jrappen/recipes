@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5c8dfc4c77277f4a20e2e71e7150c11f"
+    "revision": "bb09363867b6b6dd738172ec32da02f1"
   },
   {
     "url": "assets/css/0.styles.aa3cbaef.css",
@@ -38,16 +38,20 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.3262c407.js",
-    "revision": "f44f0571cff4b397bfb8c1917950ac3d"
+    "url": "assets/js/10.6b524374.js",
+    "revision": "db3a1a5e4327b7256588766d979ecf38"
   },
   {
-    "url": "assets/js/11.cd2db634.js",
-    "revision": "7aa70ed65abf31aee14d138499d99468"
+    "url": "assets/js/11.f2c526e2.js",
+    "revision": "579c559a5d0ba5d030593932f8cd58ad"
   },
   {
-    "url": "assets/js/12.097da429.js",
-    "revision": "c6a75617a30fd05cd06bb31801a3c390"
+    "url": "assets/js/12.7cbdd27a.js",
+    "revision": "1590ccd42b2b75107f4e1fea96b9f830"
+  },
+  {
+    "url": "assets/js/13.d512af1d.js",
+    "revision": "73215568805daabae6b8ad6d6823b6e0"
   },
   {
     "url": "assets/js/2.7383e662.js",
@@ -58,8 +62,8 @@ self.__precacheManifest = [
     "revision": "d5747f5adf507b34280d42d4cf817ef2"
   },
   {
-    "url": "assets/js/4.03d33699.js",
-    "revision": "477eac977f5e15b0e562fe98d7302cd6"
+    "url": "assets/js/4.8000bd54.js",
+    "revision": "1af5226c1e38a242105e7c158c8da3dd"
   },
   {
     "url": "assets/js/5.23ea72f1.js",
@@ -74,44 +78,32 @@ self.__precacheManifest = [
     "revision": "495828c939ee14356c755be032fffb5c"
   },
   {
-    "url": "assets/js/8.311328f2.js",
-    "revision": "0a829064f139f9b9712984a2a501b1c5"
+    "url": "assets/js/8.6713ebf7.js",
+    "revision": "7421a71c596ba784236c062d2973dc3b"
   },
   {
-    "url": "assets/js/9.f2dec6b9.js",
-    "revision": "bf016014f5d65478356919d3fb37aea6"
+    "url": "assets/js/9.ee62f906.js",
+    "revision": "47f16e9517cbce477d3695234d027021"
   },
   {
-    "url": "assets/js/app.42f68ba4.js",
-    "revision": "af871c64670be88dbb2ab3f81692163b"
+    "url": "assets/js/app.ab495208.js",
+    "revision": "0bd06f2d20fb4673b817ac723cfb3964"
   },
   {
     "url": "category/dessert/index.html",
-    "revision": "ac07c374209567d6b1de506318f31437"
+    "revision": "5fd2aab2b2cfdfcfc2dabc85696fa34f"
   },
   {
     "url": "category/index.html",
-    "revision": "ddb6184d57a9282c6c7a9895322af24a"
+    "revision": "ecd9a35d18786d28655f01699d59374a"
   },
   {
     "url": "category/main/index.html",
-    "revision": "5eb81edfe7fe34c22f8ba47ccd23c91e"
+    "revision": "f9c878dcea0067c6bbaf9d93b4a3d2e2"
   },
   {
     "url": "category/soup/index.html",
-    "revision": "195e35fc014aad325df35367804e45a2"
-  },
-  {
-    "url": "chili-con-carne/index.html",
-    "revision": "a04d63b9b7a903e3d9b3b5b8b3a8d258"
-  },
-  {
-    "url": "cookies/index.html",
-    "revision": "7caef33a5fa6bc81bf68b925b33921a2"
-  },
-  {
-    "url": "elisenlebkuchen/index.html",
-    "revision": "e901d1e58378e3ac5f95a157f21f45d1"
+    "revision": "fe3e1a39238db4c0b673e2b0c504655c"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -167,51 +159,67 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ab5d5d47f8a79caf9a1192ca2cca982e"
+    "revision": "3e7a807a87d3a5bd3a63b46033206400"
   },
   {
     "url": "location/Baden-Baden, Germany/index.html",
-    "revision": "7e6ada33a38242d46b0d2f3112765b85"
+    "revision": "6e1d0cdcd80282a4e77d2d5c9381e338"
   },
   {
     "url": "location/Düsseldorf, Germany/index.html",
-    "revision": "b3ca1dc97fbe57187249a0bf5618f2f6"
+    "revision": "3635d4b78c4bd47e39e722f25dfd769f"
   },
   {
     "url": "location/index.html",
-    "revision": "26d02cbac7a0d0b241ab6f0ea857192f"
+    "revision": "65cc0693c60ee04ee7f891e375490630"
   },
   {
     "url": "logo.png",
     "revision": "758188cbbc98a3a2523f0b6ba100821f"
   },
   {
-    "url": "page/2/index.html",
-    "revision": "972c8c916ea2cef2759cee148d9453e2"
+    "url": "post/2021/01/23/chili-con-carne/index.html",
+    "revision": "61c86ddffdf56495aca37cfe9f0d147e"
   },
   {
-    "url": "red-pepper-ginger-soup/index.html",
-    "revision": "215980d13fb46e0f75f9df43aab224be"
+    "url": "post/2021/01/23/cookies/index.html",
+    "revision": "e4403a9617d143399935a5a799ac526f"
+  },
+  {
+    "url": "post/2021/01/23/red-pepper-ginger-soup/index.html",
+    "revision": "e558d992af9527979a2da452e45b1708"
+  },
+  {
+    "url": "post/2021/01/26/elisenlebkuchen/index.html",
+    "revision": "41f69f1186c45d34fb027d1200ceb35a"
+  },
+  {
+    "url": "post/index.html",
+    "revision": "4eca4d2fae099d43cde73e43e231d0ab"
+  },
+  {
+    "url": "post/page/2/index.html",
+    "revision": "bb0387b7cadaaa833d3484498a8f42b3"
   },
   {
     "url": "tag/cookies/index.html",
-    "revision": "7db52f8593587980f223f1ca033398ca"
+    "revision": "c3065fce0884eb4749ead5ddeca4041d"
   },
   {
     "url": "tag/halal/index.html",
-    "revision": "dfd748b2604935b6c6588b76c0711dd8"
+    "revision": "1f60b5602b70e553f52d9771c575eb6b"
   },
   {
     "url": "tag/index.html",
-    "revision": "4c0a8e84c05b20e5cc8c26d9147be450"
+    "revision": "ce24373cae315b3db5ab396f6ed3917e"
   },
   {
     "url": "tag/vegan/index.html",
-    "revision": "89d9acc55737bc663d11ab26feb547c7"
+    "revision": "34bbec93e1664072a6f843c6b1d4b83e"
   },
   {
     "url": "tag/vegetarian/index.html",
-    "revision": "5600553a596cf7f20965c05189016fa6"
+    "revision": "a3aa77fbbdb5b15e7042aec7f3b83ae6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
