@@ -16,25 +16,50 @@ module.exports = [
         frontmatters: [
             {
                 id: 'category',
-                keys: ['category', 'categories'],
+                keys:
+                [
+                    'category',
+                    'categories'
+                ],
                 path: '/category/',
                 layout: 'Category',
                 itemLayout: 'Category',
-                frontmatter: { title: 'Category' }
+                frontmatter:
+                {
+                    title: 'Categories',
+                    sidebar: false
+                }
             },
             {
                 id: 'tag',
-                keys: ['tag', 'tags'],
+                keys:
+                [
+                    'tag',
+                    'tags'
+                ],
                 path: '/tag/',
                 layout: 'Tag',
                 itemLayout: 'Tag',
-                frontmatter: { title: 'Tag' }
+                frontmatter:
+                {
+                    title: 'Tags',
+                    sidebar: false
+                }
             },
             {
                 id: 'location',
-                keys: ['location'],
+                keys:
+                [
+                    'location'
+                ],
                 path: '/location/',
-                frontmatter: { title: 'Location' }
+                // layout: 'Location',
+                // itemLayout: 'Location',
+                frontmatter:
+                {
+                    title: 'Locations',
+                    sidebar: false
+                }
             }
         ],
         globalPagination: {
